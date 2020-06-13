@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>114-with-mask.jpg</filename>
+	<path>D:\face_mask_detector\train\114-with-mask.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>327</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>3</ymin>
+			<xmax>302</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>
