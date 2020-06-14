@@ -1,2 +1,2 @@
 # Face-Mask-Dataset
-This is a Face Mask dataset, credits: pyimagesearch by Adrian Rosebrock 
+This is a Face Mask dataset, credits: Adrian Rosebrock 
