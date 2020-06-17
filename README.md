@@ -1,5 +1,5 @@
 # Face-Mask-Detection with Detectron2
-![example](doc/image1.png)
+![detection example](image/image1.png)
 
 ## 1. Installation
 
