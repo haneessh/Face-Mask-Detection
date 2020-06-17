@@ -2,6 +2,20 @@
 ![detection example](image/image1.png)
 
 ## 1. Installation
+Install below dependencies and Detectron2
+
+!pip install -U torch==1.5 torchvision==0.6 -f https://download.pytorch.org/whl/cu101/torch_stable.html
+
+!pip install cython pyyaml==5.1
+
+!pip install -U 'git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI'
+
+import torch, torchvision
+
+print(torch.__version__, torch.cuda.is_available())
+
+### Installing Detectron2
+!pip install detectron2==0.1.3 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu101/torch1.5/index.html
 
 ## 2. Collecting Data
 
