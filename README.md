@@ -19,7 +19,7 @@ print(torch.__version__, torch.cuda.is_available())
 
 ## 2. Collecting Data
 
-I used images from pyimagesearch by Adrian Rosebrock
+I have used images from pyimagesearch by Adrian Rosebrock
 
 ## 3. Labelling Data
 We have completed collecting images, now next step is Labelling the data. Labeling is the process of drawing bounding boxes around the objects.
@@ -32,7 +32,7 @@ In Detectron2 we can read a dataset directly if it's in coco format.
 For more information check out the [official documentation](https://detectron2.readthedocs.io/tutorials/datasets.html#register-a-dataset)
 
 ## 5. Loading the data and trainig the model
-The complete training process can be found in the []()
+The complete training process can be found in facemask.ipynb []()
 
 ## 6. Using model for inference
 With the training model, now we can use if for inference by simply loading in the weights and config and creating Default Predictor.
