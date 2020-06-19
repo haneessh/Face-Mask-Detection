@@ -24,6 +24,7 @@ I have used images from pyimagesearch by Adrian Rosebrock
 ## 3. Labelling Data
 We have completed collecting images, now next step is Labelling the data. Labeling is the process of drawing bounding boxes around the objects.
 LabelImg is the tool which I have used, LabelImg saves the image as xml file containing the label data for each image.
+
 For quick demo: check this [link](LabelImg.mp4)
 
 ## 4. Preparing data for training
