@@ -10,9 +10,6 @@ Install below dependencies and Detectron2
 
 !pip install -U 'git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI'
 
-import torch, torchvision
-
-print(torch.__version__, torch.cuda.is_available())
 
 ### Installing Detectron2
 !pip install detectron2==0.1.3 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu101/torch1.5/index.html
